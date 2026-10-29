@@ -11,3 +11,4 @@ problem link, the approach in my own words, and the time and space complexity.
 | 125 | [Valid Palindrome](two-pointers/0125_valid_palindrome.py) | Two pointers (opposite ends) | O(n) | O(1) |
 | 11 | [Container With Most Water](two-pointers/0011_container_with_most_water.py) | Two pointers (opposite ends) | O(n) | O(1) |
 | 977 | [Squares of a Sorted Array](two-pointers/0977_squares_of_a_sorted_array.py) | Two pointers (opposite ends) | O(n) | O(1) |
+| 283 | [Move Zeroes](two-pointers/0283_move_zeroes.py) | Two pointers (same direction) | O(n) | O(1) |
