@@ -8,4 +8,5 @@ problem link, the approach in my own words, and the time and space complexity.
 | # | Problem | Pattern | Time | Space |
 |---|---------|---------|------|-------|
 | 167 | [Two Sum II - Input Array Is Sorted](two-pointers/0167_two_sum_ii.py) | Two pointers (opposite ends) | O(n) | O(1) |
-| 125 | [Valid Palindrome](two-pointers/0125_valid_palindrome.py) | Two pointers (opposite ends) | O(n) | O(n) |
+| 125 | [Valid Palindrome](two-pointers/0125_valid_palindrome.py) | Two pointers (opposite ends) | O(n) | O(1) |
+| 11 | [Container With Most Water](two-pointers/0011_container_with_most_water.py) | Two pointers (opposite ends) | O(n) | O(1) |
