@@ -18,3 +18,4 @@ problem link, the approach in my own words, and the time and space complexity.
 | 643 | [Maximum Average Subarray I](sliding-window/0643_maximum_average_subarray_i.py) | Sliding window (fixed size) | O(n) | O(1) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](sliding-window/1456_maximum_number_of_vowels_in_a_substring_of_given_length.py) | Sliding window (fixed size) | O(n) | O(1) |
 | 219 | [Contains Duplicate II](sliding-window/0219_contains_duplicate_ii.py) | Sliding window (fixed size, set) | O(n) | O(min(n, k)) |
+| 345 | [Reverse Vowels of a String](two-pointers/0345_reverse_vowels_of_a_string.py) | Two pointers (opposite ends) | O(n) | O(n) |
