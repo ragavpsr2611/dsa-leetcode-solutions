@@ -15,3 +15,4 @@ problem link, the approach in my own words, and the time and space complexity.
 | 26 | [Remove Duplicates from Sorted Array](two-pointers/0026_remove_duplicates_from_sorted_array.py) | Two pointers (same direction) | O(n) | O(1) |
 | 88 | [Merge Sorted Array](two-pointers/0088_merge_sorted_array.py) | Two pointers (two arrays) | O(m + n) | O(1) |
 | 392 | [Is Subsequence](two-pointers/0392_is_subsequence.py) | Two pointers (two sequences) | O(len(t)) | O(1) |
+| 643 | [Maximum Average Subarray I](sliding-window/0643_maximum_average_subarray_i.py) | Sliding window (fixed size) | O(n) | O(1) |
