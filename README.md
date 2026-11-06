@@ -22,3 +22,6 @@ problem link, the approach in my own words, and the time and space complexity.
 | 1768 | [Merge Strings Alternately](two-pointers/1768_merge_strings_alternately.py) | Two sequences, tail appended | O(m + n) | O(m + n) |
 | 27 | [Remove Element](two-pointers/0027_remove_element.py) | Two pointers (same direction) | O(n) | O(1) |
 | 1343 | [Number of Sub-arrays of Size K and Average >= Threshold](sliding-window/1343_number_of_subarrays_of_size_k_and_average_greater_than_or_equal_to_threshold.py) | Sliding window (fixed size) | O(n) | O(1) |
+| 680 | [Valid Palindrome II](two-pointers/0680_valid_palindrome_ii.py) | Two pointers (opposite ends), try both deletions | O(n) | O(1) |
+| 75 | [Sort Colors](two-pointers/0075_sort_colors.py) | Three pointers (Dutch national flag) | O(n) | O(1) |
+| 1423 | [Maximum Points You Can Obtain from Cards](sliding-window/1423_maximum_points_you_can_obtain_from_cards.py) | Sliding split between the two ends | O(k) | O(1) |
