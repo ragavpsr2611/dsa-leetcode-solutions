@@ -19,3 +19,6 @@ problem link, the approach in my own words, and the time and space complexity.
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](sliding-window/1456_maximum_number_of_vowels_in_a_substring_of_given_length.py) | Sliding window (fixed size) | O(n) | O(1) |
 | 219 | [Contains Duplicate II](sliding-window/0219_contains_duplicate_ii.py) | Sliding window (fixed size, set) | O(n) | O(min(n, k)) |
 | 345 | [Reverse Vowels of a String](two-pointers/0345_reverse_vowels_of_a_string.py) | Two pointers (opposite ends) | O(n) | O(n) |
+| 1768 | [Merge Strings Alternately](two-pointers/1768_merge_strings_alternately.py) | Two sequences, tail appended | O(m + n) | O(m + n) |
+| 27 | [Remove Element](two-pointers/0027_remove_element.py) | Two pointers (same direction) | O(n) | O(1) |
+| 1343 | [Number of Sub-arrays of Size K and Average >= Threshold](sliding-window/1343_number_of_subarrays_of_size_k_and_average_greater_than_or_equal_to_threshold.py) | Sliding window (fixed size) | O(n) | O(1) |
