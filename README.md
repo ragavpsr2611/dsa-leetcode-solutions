@@ -25,3 +25,8 @@ problem link, the approach in my own words, and the time and space complexity.
 | 680 | [Valid Palindrome II](two-pointers/0680_valid_palindrome_ii.py) | Two pointers (opposite ends), try both deletions | O(n) | O(1) |
 | 75 | [Sort Colors](two-pointers/0075_sort_colors.py) | Three pointers (Dutch national flag) | O(n) | O(1) |
 | 1423 | [Maximum Points You Can Obtain from Cards](sliding-window/1423_maximum_points_you_can_obtain_from_cards.py) | Sliding split between the two ends | O(k) | O(1) |
+| 905 | [Sort Array By Parity](two-pointers/0905_sort_array_by_parity.py) | Two pointers (same direction) | O(n) | O(1) |
+| 485 | [Max Consecutive Ones](sliding-window/0485_max_consecutive_ones.py) | Sliding window (variable size) | O(n) | O(1) |
+| 1004 | [Max Consecutive Ones III](sliding-window/1004_max_consecutive_ones_iii.py) | Sliding window (variable size, at most k zeros) | O(n) | O(1) |
+| 3 | [Longest Substring Without Repeating Characters](sliding-window/0003_longest_substring_without_repeating_characters.py) | Sliding window (variable size, set) | O(n) | O(min(n, m)) |
+| 209 | [Minimum Size Subarray Sum](sliding-window/0209_minimum_size_subarray_sum.py) | Sliding window (variable size, shortest) | O(n) | O(1) |
